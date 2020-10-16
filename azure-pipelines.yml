@@ -28,6 +28,12 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
+- task: SonarQubePrepare@4
+  inputs:
+    SonarQube: 'Sonarqube'
+    scannerMode: 'MSBuild'
+    projectKey: 'testBertoni'
+
 - task: WhiteSource@20
   inputs:
     cwd: '$(Build.SourcesDirectory)'
