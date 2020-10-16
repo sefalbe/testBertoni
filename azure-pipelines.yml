@@ -34,6 +34,8 @@ steps:
     scannerMode: 'MSBuild'
     projectKey: 'testBertoni'
 
+- task: SonarQubeAnalyze@4
+
 - task: WhiteSource@20
   inputs:
     cwd: '$(Build.SourcesDirectory)'
