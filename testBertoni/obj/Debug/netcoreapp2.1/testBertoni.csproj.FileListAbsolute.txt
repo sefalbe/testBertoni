@@ -1,0 +1,11 @@
+C:\Users\sefal\source\repos\testBertoni\testBertoni\bin\Debug\netcoreapp2.1\testBertoni.deps.json
+C:\Users\sefal\source\repos\testBertoni\testBertoni\bin\Debug\netcoreapp2.1\testBertoni.runtimeconfig.json
+C:\Users\sefal\source\repos\testBertoni\testBertoni\bin\Debug\netcoreapp2.1\testBertoni.runtimeconfig.dev.json
+C:\Users\sefal\source\repos\testBertoni\testBertoni\bin\Debug\netcoreapp2.1\testBertoni.dll
+C:\Users\sefal\source\repos\testBertoni\testBertoni\bin\Debug\netcoreapp2.1\testBertoni.pdb
+C:\Users\sefal\source\repos\testBertoni\testBertoni\obj\Debug\netcoreapp2.1\testBertoni.csprojAssemblyReference.cache
+C:\Users\sefal\source\repos\testBertoni\testBertoni\obj\Debug\netcoreapp2.1\testBertoni.csproj.CoreCompileInputs.cache
+C:\Users\sefal\source\repos\testBertoni\testBertoni\obj\Debug\netcoreapp2.1\testBertoni.AssemblyInfoInputs.cache
+C:\Users\sefal\source\repos\testBertoni\testBertoni\obj\Debug\netcoreapp2.1\testBertoni.AssemblyInfo.cs
+C:\Users\sefal\source\repos\testBertoni\testBertoni\obj\Debug\netcoreapp2.1\testBertoni.dll
+C:\Users\sefal\source\repos\testBertoni\testBertoni\obj\Debug\netcoreapp2.1\testBertoni.pdb
